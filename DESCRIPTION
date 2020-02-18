@@ -1,0 +1,23 @@
+Package: airqualityES
+Title: Air Quality Measurements in Spain from 2011 to 2018
+Version: 1.0.0
+Authors@R: c(
+  person("Jose V.", "Die", email = "jose.die@uco.es", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-7506-8590")), 
+  person("Jose R.", "Caro", email = "z52cabaj@uco.es", role = c("ctb")))
+Description: These datasets contain daily and hourly quality air measurements in 
+  Spain over a period of 18 years (from 2001 to 2018). The measurements refer to 
+  several pollutants. These data are openly published by the Government of Spain.  
+  The datasets are originally spread over a number of files and formats. Here, 
+  the same information is contained in simple dataframes for convenience of 
+  researches, journalists or general public. See the Spanish Government website 
+  <https://bit.ly/2Ojnpwy> for more information.
+Depends: R (>= 3.4.0)
+License: CC BY-SA 4.0
+Encoding: UTF-8
+LazyData: true
+Imports: tibble (>= 2.1.3) 
+Suggests: knitr, 
+  rmarkdown
+URL: https://github.com/jdieramon/airquality_ES
+BugReports: https://github.com/jdieramon/airquality_ES/issues
+RoxygenNote: 6.1.1
