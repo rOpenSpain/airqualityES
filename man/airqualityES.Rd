@@ -6,10 +6,15 @@
 \alias{airqualityES-package}
 \title{airqualityES: Air quality measurements in Spain}
 \description{
-aiqualityES datasets contain daily quality air measurements from 2001 to 2018.
+aiqualityES dataset contains daily quality air measurements from 2001 to 2018.
 }
 \seealso{
-see the preprint in \href{https://www.biorxiv.org/content/10.1101/436659v1}{BioRvix}
+Useful links:
+\itemize{
+  \item \url{https://github.com/jdieramon/airquality_ES}
+  \item Report bugs at \url{https://github.com/jdieramon/airquality_ES/issues}
+}
+
 }
 \author{
 Jose V. Die \email{jose.die@uco.es}, Jose R. Caro

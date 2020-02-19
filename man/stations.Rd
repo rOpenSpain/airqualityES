@@ -25,7 +25,7 @@
 \item area, area
   }}
 \source{
-Official data  \href{https://bit.ly/2Ojnpwy}{Government of Spain}.
+Official data  \href{www.miteco.gob.es}{Government of Spain}.
 }
 \usage{
 data(stations)

@@ -15,7 +15,7 @@
 \item D01-D031, days 1-31 of measurement
   }}
 \source{
-Official data  \href{https://bit.ly/2Ojnpwy}{Government of Spain}.
+Official data  \href{www.miteco.gob.es}{Government of Spain}.
 }
 \usage{
 data(airqES)
