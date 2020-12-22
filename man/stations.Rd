@@ -4,7 +4,8 @@
 \name{stations}
 \alias{stations}
 \title{Air stations in Spain}
-\format{A \code{data.frame} with 604 rows and columns:
+\format{
+A \code{data.frame} with 604 rows and columns:
 \itemize{
 \item id, local identifier
 \item province_id, province identifier
@@ -23,7 +24,8 @@
 \item city, city
 \item station_kind, kind of station
 \item area, area
-  }}
+  }
+}
 \source{
 Official data  \href{www.miteco.gob.es}{Government of Spain}.
 }

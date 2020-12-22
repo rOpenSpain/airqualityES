@@ -11,8 +11,8 @@ aiqualityES dataset contains daily quality air measurements from 2001 to 2018.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/jdieramon/airquality_ES}
-  \item Report bugs at \url{https://github.com/jdieramon/airquality_ES/issues}
+  \item \url{https://github.com/jdieramon/airqualityES}
+  \item Report bugs at \url{https://github.com/jdieramon/airqualityES/issues}
 }
 
 }
