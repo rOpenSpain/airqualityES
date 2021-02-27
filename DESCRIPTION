@@ -20,4 +20,4 @@ Suggests: knitr,
   rmarkdown
 URL: https://github.com/jdieramon/airqualityES
 BugReports: https://github.com/jdieramon/airqualityES/issues
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1

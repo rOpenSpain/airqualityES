@@ -4,7 +4,8 @@
 \name{airqES}
 \alias{airqES}
 \title{Air quality measurements in Spain}
-\format{A \code{data.frame} with 112,484 rows and columns:
+\format{
+A \code{data.frame} with 112,484 rows and columns:
 \itemize{
 \item year, Year of measurement
 \item month, Month of measurement
@@ -13,7 +14,8 @@
 \item station_id, Measurement station identifier
 \item pollutant, Pollutant name
 \item D01-D031, days 1-31 of measurement
-  }}
+  }
+}
 \source{
 Official data  \href{www.miteco.gob.es}{Government of Spain}.
 }
